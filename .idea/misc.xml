@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.225" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/cart.xml" value="0.2385" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/green_bg.xml" value="0.2385" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_maximize_24.xml" value="0.225" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.225" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/strok.xml" value="0.2375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/white_bg.xml" value="0.2" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/font/conture.xml" value="0.2625" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/font/galindo.xml" value="0.2625" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-hdpi/activity_detail.xml" value="0.136" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-hdpi/activity_login.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-hdpi/activity_main.xml" value="0.536" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-hdpi/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-hdpi/activity_splash.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-hdpi/fragment_acccount.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-hdpi/fragment_cart.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-large/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-ldpi/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-ldpi/activity_login.xml" value="1.0" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-ldpi/activity_main.xml" value="1.39375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-ldpi/activity_splash.xml" value="1.39375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-ldpi/exlore_viewholder.xml" value="1.39375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-ldpi/fragment_acccount.xml" value="1.39375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/activity_detail.xml" value="0.8800000000000001" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/activity_login.xml" value="0.9291666666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/activity_main.xml" value="0.9291666666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/activity_signup.xml" value="0.9291666666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/activity_splash.xml" value="0.9291666666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/avtivity_detail.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/fragment_acccount.xml" value="0.9291666666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-mdpi/fragment_cart.xml" value="0.9291666666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xhdpi/activity_detail.xml" value="0.264" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xhdpi/activity_login.xml" value="0.3484375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xhdpi/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xhdpi/activity_signup.xml" value="0.3484375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xhdpi/activity_splash.xml" value="0.158203125" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xhdpi/fragment_acccount.xml" value="0.3484375" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xhdpi/fragment_cart.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxhdpi/activity_detail.xml" value="0.11200000000000002" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxhdpi/activity_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxhdpi/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxhdpi/activity_signup.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxhdpi/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxhdpi/fragment_acccount.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxhdpi/fragment_cart.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxxhdpi/activity_detail.xml" value="0.536" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxxhdpi/activity_login.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxxhdpi/activity_main.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxxhdpi/activity_signup.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxxhdpi/activity_splash.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxxhdpi/fragment_acccount.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout-xxxhdpi/fragment_cart.xml" value="0.17421875" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detail.xml" value="0.2" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_detail_item.xml" value="0.22510822510822512" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.152" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_signup.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_splash.xml" value="0.136" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_splash2.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/cart_viewholder.xml" value="0.35" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/category_viewholder.xml" value="0.4" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/detailitem_viewholder.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/exlore_viewholder.xml" value="0.2" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_acccount.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_detail_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_favourite.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_search.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/grocery_viewholder.xml" value="0.176" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/layout/seling_viewholder.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/menu/nav_menu.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2385" />
+        <entry key="..\:/Users/312ts/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2385" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="1.0" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
